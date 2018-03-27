@@ -10,6 +10,7 @@ You can copy this repository and modify it, or if you want to create your own pa
 npx create-react-app my-app
 cd my-app
 npm install @patternfly/patternfly-next
+npm install patternfly-next-react
 ```
 
 2. ???

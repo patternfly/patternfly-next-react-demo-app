@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@patternfly/patternfly-next-workshop": "latest",
+    "patternfly-next-react": "0.0.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1"
