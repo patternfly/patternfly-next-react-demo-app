@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+## Steps To Reproduce This Project
+
+You can copy this repository and modify it, or if you want to create your own patternfly-next-react app from scratch, you can follow these steps:
+
+1. Create the app and install additional dependencies:
+
+```sh
+npx create-react-app my-app
+cd my-app
+npm install @patternfly/patternfly-next
+```
+
+2. ???
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
